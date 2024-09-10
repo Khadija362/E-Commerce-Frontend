@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Layout from "../../Components/Layout/Layout";
-import AdminMenu from "../../components/Layout/AdminMenu";
+import AdminMenu from "../../Components/Layout/AdminMenu";
 import toast from "react-hot-toast";
 import axios from "axios";
 import { Select } from "antd";
