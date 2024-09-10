@@ -5,7 +5,7 @@ import { NavLink, Link } from "react-router-dom";
 import { useAuth } from "../../context/auth";
 import Register from "./../../pages/Auth/Register";
 //import Login from "./../../pages/Auth/Login";
-import Login from "../../pages/Auth/login";
+import Login from "../../pages/Auth/Login";
 import toast from "react-hot-toast";
 import Dashboard from "./../../pages/user/Dashboard";
 import SearchInput from "../Form/SearchInput";
