@@ -14,7 +14,7 @@ import Register from "./pages/Auth/Register";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-import Login from "./pages/Auth/login";
+import Login from "./pages/Auth/Login";
 import Dashboard from "./pages/user/Dashboard";
 import PrivateRoute from "./Components/Routes/Private";
 import AdminRoute from "./Components/Routes/AdminRoute";
